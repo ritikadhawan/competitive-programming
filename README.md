@@ -13,3 +13,9 @@ competitive programming questions topic wise and their solutions
 ###### 3. [product_of_array_exept_self](https://github.com/ritikadhawan/competitive-programming/blob/master/kadane's%20algorithm/product_of_array_exept_self.cpp)
 ```diff
 # Ans should include product of each array element except ith element without using division.
+```
+#### STL
+###### 1. [hussain-set](https://github.com/ritikadhawan/competitive-programming/blob/master/STL/hussain-set.cpp)
+```diff
+# Queries in which we have to perform division of max element and insert element back (stl used: queue)
+```
