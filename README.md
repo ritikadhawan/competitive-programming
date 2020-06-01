@@ -9,3 +9,5 @@ competitive programming questions topic wise and their solutions
 #### STL
 ###### 1. [hussain-set](https://github.com/ritikadhawan/competitive-programming/blob/master/STL/hussain-set.cpp)
 ###### 2. [voters](https://github.com/ritikadhawan/competitive-programming/blob/master/STL/hussain-set.cpp)
+###### 3. [permutation-and-palindrome](https://github.com/ritikadhawan/competitive-programming/blob/master/STL/permutation-and-palindrome.cpp)
+
