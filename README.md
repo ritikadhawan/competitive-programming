@@ -11,3 +11,5 @@ competitive programming questions topic wise and their solutions
 ###### 2. [voters](https://github.com/ritikadhawan/competitive-programming/blob/master/STL/hussain-set.cpp)
 ###### 3. [permutation-and-palindrome](https://github.com/ritikadhawan/competitive-programming/blob/master/STL/permutation-and-palindrome.cpp)
 
+#### Backtracking
+###### 1. [sudoku-solver](https://github.com/ritikadhawan/competitive-programming/blob/master/backtracking/sudoku-solver.cpp)
