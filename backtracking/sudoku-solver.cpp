@@ -77,8 +77,8 @@ int main() {
 	}
 
 	bool row[9][10] = {};
-    bool col[9][10] = {};
-    bool box[9][10] = {};
+    	bool col[9][10] = {};
+    	bool box[9][10] = {};
 	for(int i=0;i<9;i++) {
         for(int j=0;j<9;j++) {
             int num = board[i][j];
