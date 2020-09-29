@@ -16,3 +16,6 @@ competitive programming questions topic wise and their solutions
 
 #### Policy-Based-Data-Structure
 ###### 1. order-set (Spoj)
+
+#### MO's algorithm
+###### 1. dquery(Spoj)
